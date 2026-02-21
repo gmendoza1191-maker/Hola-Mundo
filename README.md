@@ -1,2 +1,2 @@
 # Hola-Mundo
-Mi primer repositorio
+Mi primer repositorio hecho en Python
